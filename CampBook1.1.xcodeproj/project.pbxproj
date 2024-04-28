@@ -14,6 +14,7 @@
 		361B1C562BDE831A00250262 /* CampBook1_1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 361B1C542BDE831A00250262 /* CampBook1_1.xcdatamodeld */; };
 		361B1C582BDE831C00250262 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 361B1C572BDE831C00250262 /* Assets.xcassets */; };
 		361B1C5B2BDE831C00250262 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 361B1C5A2BDE831C00250262 /* Base */; };
+		361B1C632BDE8B0400250262 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 361B1C622BDE8B0400250262 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		361B1C572BDE831C00250262 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		361B1C5A2BDE831C00250262 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		361B1C5C2BDE831C00250262 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		361B1C622BDE8B0400250262 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				361B1C4B2BDE831A00250262 /* AppDelegate.swift */,
 				361B1C4D2BDE831A00250262 /* SceneDelegate.swift */,
 				361B1C4F2BDE831A00250262 /* ViewController.swift */,
+				361B1C622BDE8B0400250262 /* DetailsVC.swift */,
 				361B1C512BDE831A00250262 /* Main.storyboard */,
 				361B1C572BDE831C00250262 /* Assets.xcassets */,
 				361B1C592BDE831C00250262 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				361B1C562BDE831A00250262 /* CampBook1_1.xcdatamodeld in Sources */,
 				361B1C4C2BDE831A00250262 /* AppDelegate.swift in Sources */,
 				361B1C4E2BDE831A00250262 /* SceneDelegate.swift in Sources */,
+				361B1C632BDE8B0400250262 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
