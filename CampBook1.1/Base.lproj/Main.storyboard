@@ -45,11 +45,11 @@
         <scene sceneID="pax-lW-WVo">
             <objects>
                 <viewController id="FVA-Qf-Qt8" customClass="DetailsVC" customModule="CampBook1_1" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" ambiguous="YES" id="hgO-dE-IYx">
+                    <view key="view" contentMode="scaleToFill" id="hgO-dE-IYx">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="dYm-MM-v9F">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="selectImage" translatesAutoresizingMaskIntoConstraints="NO" id="dYm-MM-v9F">
                                 <rect key="frame" x="46" y="103" width="301" height="337"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="301" id="how-5P-9sG"/>
@@ -141,6 +141,7 @@
     </scenes>
     <color key="tintColor" red="0.69019607843137254" green="0.38039215686274508" blue="0.38039215686274508" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
     <resources>
+        <image name="selectImage" width="512" height="512"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
